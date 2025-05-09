@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.2.0](https://github.com/MPUSP/snakemake-workflow-template/compare/v1.1.0...v1.2.0) (2025-05-09)
+
+
+### Features
+
+* larger update to feature fully-functional example and github actions ([93c08fc](https://github.com/MPUSP/snakemake-workflow-template/commit/93c08fc9db2f8619af7b90784db83d18ed656f25))
+
+
+### Bug Fixes
+
+* all-temp needs explicit input of multiqc zip dirs ([026c35a](https://github.com/MPUSP/snakemake-workflow-template/commit/026c35aebfb140746bc823ce06327e25c9a40cf1))
+* code review issues ([97faf1a](https://github.com/MPUSP/snakemake-workflow-template/commit/97faf1ae8bde189094e6b46568f3911f01b625fd))
+* formatting, logging ([d6c819e](https://github.com/MPUSP/snakemake-workflow-template/commit/d6c819efcadde1ad4af342152d3aef2a982983d0))
+* snakefmt error ([70d670a](https://github.com/MPUSP/snakemake-workflow-template/commit/70d670a91c79c0a9d89c59fff6add3f1036753a3))
+* various changes to formatting and example rules ([b9b2366](https://github.com/MPUSP/snakemake-workflow-template/commit/b9b236645ad961cd7a8886c1697b27f3694ee047))
+
 ## [1.1.0](https://github.com/MPUSP/snakemake-workflow-template/compare/v1.0.0...v1.1.0) (2025-04-24)
 
 
